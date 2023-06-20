@@ -13,6 +13,8 @@ I am a postdoc researcher at ETH Zurich, and have been studying on **digital hum
 - **Machine Learning:** deep generative modeling, reinforcement learning, inverse problem
 - **Graphics:** motion capture and behavior synthesis, human-scene interactions, parametric body models, neural rendering
 - **Applications:** mixed reality, synthetic data, human-centric simulation, healthcare, etc.
+
+
 ## News
 
 - **[Jun. 2023]** Serve as area chair for 3DV'24, and reviewer for Siggraph Asia'23.
