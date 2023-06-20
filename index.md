@@ -2,21 +2,20 @@
 layout: homepage
 ---
 
+
 ## About Me
 
-I am a Ph.D. student at ...
+I am a postdoc researcher at ETH Zurich, and have been studying on digital human technologies. My researches cover human body/motion modeling, behavior understanding and synthesis, body pose estimation and motion capture, etc, as well as their applications in mixed reality, architecture design, and healthcare. 
 
-## Research Interests
+## Research Experiences and Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** body pose estimation, behavior understanding, motion and correspondence problem
+- **Machine Learning:** deep generative modeling, reinforcement learning, inverse problem
+- **Graphics:** motion capture and behavior synthesis, human-scene interactions, parametric body models, neural rendering
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jun. 2023]** Serve as area chair for 3DV'24, and reviewer for Siggraph Asia'23.
 
 {% include_relative _includes/publications.md %}
 
