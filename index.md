@@ -5,7 +5,7 @@ layout: homepage
 
 ## About Me
 
-I am a postdoc researcher at ETH Zurich, and have been studying on **digital human technologies**. My researches cover human body/motion modeling, behavior understanding and synthesis, body pose estimation and motion capture, etc, as well as their applications in mixed reality, architecture design, and healthcare. 
+I am a postdoc researcher at ETH Zurich, and have been studying on **digital human technologies**. My researches cover human body/motion modeling, behavior generation and understanding, generative models, body pose estimation and motion capture, etc, as well as their applications in mixed reality, architecture design, and healthcare. 
 
 ## Research Experiences and Interests
 
