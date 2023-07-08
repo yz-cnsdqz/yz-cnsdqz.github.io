@@ -48,7 +48,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/psi.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/psi.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -59,28 +59,6 @@
       <a href="https://arxiv.org/abs/1912.02923" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yz-cnsdqz/PSI-release" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://ps.is.mpg.de/publications/smpl-x-conditional-vae-prox-scene-constraints" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-    </div>
-  </div>
-</div>
-</li>
-
-
-
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/psi.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Local_Temporal_Bilinear_Pooling_for_Fine-Grained_Action_Parsing_CVPR_2019_paper.html">Local temporal bilinear pooling for fine-grained action parsing</a></div>
-    <div class="author"><strong>Yan Zhang</strong>, Siyu Tang, Krikamol Muandet, Christian Jarvers, Heiko Neumann</div>
-    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2019.</em></div>
-    <div class="links">
-      <a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Local_Temporal_Bilinear_Pooling_for_Fine-Grained_Action_Parsing_CVPR_2019_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yz-cnsdqz/TemporalActionParsing-FineGrained" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://ps.is.mpg.de/publications/bilinear2018" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
     </div>
   </div>
 </div>
@@ -131,7 +109,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/lemo.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/lemo.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICCV</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
