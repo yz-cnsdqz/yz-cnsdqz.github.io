@@ -45,12 +45,111 @@
   
 
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/psi.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/1912.02923">Generating 3d people in scenes without people</a></div>
+    <div class="author"><strong>Yan Zhang</strong>, Mohamed Hassan, Heiko Neumann, Michael J Black, Siyu Tang</div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020 (ORAL).</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/1912.02923" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/yz-cnsdqz/PSI-release" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://ps.is.mpg.de/publications/smpl-x-conditional-vae-prox-scene-constraints" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/psi.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Local_Temporal_Bilinear_Pooling_for_Fine-Grained_Action_Parsing_CVPR_2019_paper.html">Local temporal bilinear pooling for fine-grained action parsing</a></div>
+    <div class="author"><strong>Yan Zhang</strong>, Siyu Tang, Krikamol Muandet, Christian Jarvers, Heiko Neumann</div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2019.</em></div>
+    <div class="links">
+      <a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Local_Temporal_Bilinear_Pooling_for_Fine-Grained_Action_Parsing_CVPR_2019_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/yz-cnsdqz/TemporalActionParsing-FineGrained" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://ps.is.mpg.de/publications/bilinear2018" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/finegrainedseg.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Local_Temporal_Bilinear_Pooling_for_Fine-Grained_Action_Parsing_CVPR_2019_paper.html">Local temporal bilinear pooling for fine-grained action parsing</a></div>
+    <div class="author"><strong>Yan Zhang</strong>, Siyu Tang, Krikamol Muandet, Christian Jarvers, Heiko Neumann</div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2019.</em></div>
+    <div class="links">
+      <a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Local_Temporal_Bilinear_Pooling_for_Fine-Grained_Action_Parsing_CVPR_2019_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/yz-cnsdqz/TemporalActionParsing-FineGrained" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://ps.is.mpg.de/publications/bilinear2018" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/egobody.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ECCV</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2112.07642.pdf">Egobody: Human body shape and motion of interacting people from head-mounted devices</a></div>
+    <div class="author">Siwei Zhang, Qianli Ma, <strong>Yan Zhang</strong>, Zhiyin Qian, Taein Kwon, Marc Pollefeys, Federica Bogo & Siyu Tang </div>
+    <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2112.07642.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/sanweiliti/EgoBody" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/sanweiliti/EgoBody" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/lemo.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICCV</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Learning_Motion_Priors_for_4D_Human_Body_Capture_in_3D_ICCV_2021_paper.html">Learning motion priors for 4d human body capture in 3d scenes</a></div>
+    <div class="author">Siwei Zhang, <strong>Yan Zhang</strong>, Federica Bogo, Marc Pollefeys, Siyu Tang </div>
+    <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2021 (ORAL).</em></div>
+    <div class="links">
+      <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Learning_Motion_Priors_for_4D_Human_Body_Capture_in_3D_ICCV_2021_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://sanweiliti.github.io/LEMO/LEMO.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/sanweiliti/LEMO" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
 
 <br>
-
-
-
-
 
 
 
