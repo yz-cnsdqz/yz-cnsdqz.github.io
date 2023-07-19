@@ -16,7 +16,7 @@ I am a postdoc researcher at ETH Zurich, and have been studying on **digital hum
 
 
 ## News
-
+- **[Jul. 2023]** Two papers, [DIMOS](https://zkf1997.github.io/DIMOS/) and [EgoHMR](https://sanweiliti.github.io/egohmr/egohmr.html), are accepted to ICCV'23.
 - **[Jun. 2023]** Serve as area chair for 3DV'24, and reviewer for Siggraph Asia'23.
 
 {% include_relative _includes/publications.md %}
