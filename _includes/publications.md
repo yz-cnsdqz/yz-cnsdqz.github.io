@@ -3,6 +3,8 @@
 <div class="publications">
 <ol class="bibliography">
 
+Please see the full publication list at <a href="https://scholar.google.com/citations?user=5VpkLO8AAAAJ&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
