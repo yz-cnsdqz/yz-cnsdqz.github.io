@@ -3,7 +3,54 @@
 <div class="publications">
 <ol class="bibliography">
 
-Please see the full publication list at <a href="https://scholar.google.com/citations?user=5VpkLO8AAAAJ&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
+Please see the full publication list at <a href="https://scholar.google.com/citations?user=5VpkLO8AAAAJ&hl=en">Google Scholar</a>
+
+
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/dimos.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICCV</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2305.12411">Synthesizing Diverse Human Motions in 3D Indoor Scenes</a></div>
+    <div class="author"> Kaifeng Zhao, <strong>Yan Zhang</strong>, Shaofei Wang, Thabo Beeler, Siyu Tang</div>
+    <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2305.12411" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://zkf1997.github.io/DIMOS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://zkf1997.github.io/DIMOS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/egohmr.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICCV</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2304.06024">Probabilistic Human Mesh Recovery in 3D Scenes from Egocentric Views</a></div>
+    <div class="author"> Siwei Zhang, Qianli Ma, <strong>Yan Zhang</strong>, Sadegh Aliakbarian, Darren Cosker, Siyu Tang</div>
+    <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2304.06024" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://sanweiliti.github.io/egohmr/egohmr.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://sanweiliti.github.io/egohmr/egohmr.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+
 
 <li>
 <div class="pub-row">
