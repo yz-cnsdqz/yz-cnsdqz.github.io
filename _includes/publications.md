@@ -18,7 +18,7 @@ Please see the full publication list at <a href="https://scholar.google.com/cita
     <div class="title"><a href="https://arxiv.org/abs/2305.12411">Synthesizing Diverse Human Motions in 3D Indoor Scenes</a></div>
     <div class="author"> Kaifeng Zhao, <strong>Yan Zhang</strong>, Shaofei Wang, Thabo Beeler, Siyu Tang</div>
     <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.</em></div>
-    <div class="periodical">Generative motion pritimives + RL for synthesizing lifelike behavior in 3D scenes.</div>
+    <div style="font-size: 12px;"><em>Generative motion pritimives + RL for synthesizing lifelike behavior in 3D scenes.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2305.12411" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://zkf1997.github.io/DIMOS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -41,7 +41,7 @@ Please see the full publication list at <a href="https://scholar.google.com/cita
     <div class="title"><a href="https://arxiv.org/abs/2304.06024">Probabilistic Human Mesh Recovery in 3D Scenes from Egocentric Views</a></div>
     <div class="author"> Siwei Zhang, Qianli Ma, <strong>Yan Zhang</strong>, Sadegh Aliakbarian, Darren Cosker, Siyu Tang</div>
     <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023. <strong>(ORAL) </strong> </em></div>
-    <div class="periodical">A scene-conditioned diffusion model regresses 3D bodies from single images. The denoising process uses the implicit body COAP to solve interpenetration.</div>
+    <div style="font-size: 12px;"><em>A scene-conditioned diffusion model regresses 3D bodies from single images. The denoising process uses the implicit body COAP to solve interpenetration.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2304.06024" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://sanweiliti.github.io/egohmr/egohmr.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -64,7 +64,7 @@ Please see the full publication list at <a href="https://scholar.google.com/cita
     <div class="title"><a href="https://arxiv.org/abs/2112.09251">The wanderings of odysseus in 3D scenes</a></div>
     <div class="author"><strong>Yan Zhang</strong>, Siyu Tang</div>
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2022.</em></div>
-    <div class="periodical">Generative motion pritimives + RL for synthesizing locomotion behavior for diverse body shapes.</div>
+    <div style="font-size: 12px;"><em>Generative motion pritimives + RL for synthesizing locomotion behavior for diverse body shapes.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2112.09251" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yz-cnsdqz/GAMMA-release" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -86,7 +86,7 @@ Please see the full publication list at <a href="https://scholar.google.com/cita
     <div class="title"><a href="https://arxiv.org/abs/2012.00619">We are More than Our Joints: Predicting how 3D Bodies Move</a></div>
     <div class="author"><strong>Yan Zhang</strong>, Michael J. Black, Siyu Tang</div>
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2021.</em></div>
-    <div class="periodical">A novel marker-based body representation for stochastic motion prediction. </div>
+    <div style="font-size: 12px;"><em>A novel marker-based body representation for stochastic motion prediction. </em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2112.09251" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yz-cnsdqz/MOJO-release" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -108,7 +108,7 @@ Please see the full publication list at <a href="https://scholar.google.com/cita
     <div class="title"><a href="https://arxiv.org/abs/1912.02923">Generating 3d people in scenes without people</a></div>
     <div class="author"><strong>Yan Zhang</strong>, Mohamed Hassan, Heiko Neumann, Michael J Black, Siyu Tang</div>
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020 <strong>(ORAL) </strong>.</em></div>
-    <div class="periodical">Scene-conditioned body generation + test-time optimization for refinement </div>
+    <div style="font-size: 12px;"><em>generative model to populate scenes + test-time optimization for refinement </em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/1912.02923" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yz-cnsdqz/PSI-release" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -130,7 +130,7 @@ Please see the full publication list at <a href="https://scholar.google.com/cita
     <div class="title"><a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Local_Temporal_Bilinear_Pooling_for_Fine-Grained_Action_Parsing_CVPR_2019_paper.html">Local temporal bilinear pooling for fine-grained action parsing</a></div>
     <div class="author"><strong>Yan Zhang</strong>, Siyu Tang, Krikamol Muandet, Christian Jarvers, Heiko Neumann</div>
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2019.</em></div>
-    <div class="periodical">A novel plug-in bilinear pooling layer for fine-grained action segmentation. </div>
+    <div style="font-size: 12px;"><em>A novel plug-in bilinear pooling layer for fine-grained action segmentation. </em></div>
     <div class="links">
       <a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Local_Temporal_Bilinear_Pooling_for_Fine-Grained_Action_Parsing_CVPR_2019_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yz-cnsdqz/TemporalActionParsing-FineGrained" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -151,7 +151,7 @@ Please see the full publication list at <a href="https://scholar.google.com/cita
     <div class="title"><a href="https://arxiv.org/pdf/2112.07642.pdf">Egobody: Human body shape and motion of interacting people from head-mounted devices</a></div>
     <div class="author">Siwei Zhang, Qianli Ma, <strong>Yan Zhang</strong>, Zhiyin Qian, Taein Kwon, Marc Pollefeys, Federica Bogo & Siyu Tang </div>
     <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.</em></div>
-    <div class="periodical">A dataset of person-person interactions in 3D scenes, captured by Kinects and Hololens. </div>
+    <div style="font-size: 12px;"><em>A dataset of people interactions in 3D scenes, captured by Kinects and Hololens. </em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2112.07642.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/sanweiliti/EgoBody" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -172,7 +172,7 @@ Please see the full publication list at <a href="https://scholar.google.com/cita
     <div class="title"><a href="https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Learning_Motion_Priors_for_4D_Human_Body_Capture_in_3D_ICCV_2021_paper.html">Learning motion priors for 4d human body capture in 3d scenes</a></div>
     <div class="author">Siwei Zhang, <strong>Yan Zhang</strong>, Federica Bogo, Marc Pollefeys, Siyu Tang </div>
     <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2021 <strong>(ORAL) </strong>.</em></div>
-    <div class="periodical">An optimization-based method to capture body motions in 3D scenes. Body motions are modeled by markers like in MOJO. </div>
+    <div style="font-size: 12px;"><em>Leverage marker-based priors to capture body motions in 3D scenes. </em></div>
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Learning_Motion_Priors_for_4D_Human_Body_Capture_in_3D_ICCV_2021_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://sanweiliti.github.io/LEMO/LEMO.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
