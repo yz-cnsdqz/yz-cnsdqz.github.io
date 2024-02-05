@@ -9,9 +9,8 @@ layout: homepage
 
 
 ## About Me
-
-I am a postdoc researcher at ETH Zurich, and have been studying on **digital human technologies**. My researches cover human body/motion modeling, behavior generation, embodied AI, generative models, 3D body shape and pose estimation, etc, as well as their applications in mixed reality, architecture design, human-centric simulation, and healthcare. 
-
+I am currently a machine learning scientist at [Meshcapade](https://meshcapade.com/). Before I was a postdoc researcher at ETH Zurich. 
+My researches cover a wide range of topics on **human-centric AI**, in particularly on human motion and behavior modeling, 3D shape and pose estimation, generative models, etc., as well as their applications in mixed reality, architecture design, human-centric simulation, and healthcare. 
 
 
 <!-- ## Research Experiences and Interests
@@ -23,6 +22,7 @@ I am a postdoc researcher at ETH Zurich, and have been studying on **digital hum
 
 
 ## News
+- **[Jan. 2024]** Joint Meshcapade as a machine learning scientist.
 - **[Oct. 2023]** Serve as area chair for CVPR'24.
 - **[Jul. 2023]** Two papers, [DIMOS](https://zkf1997.github.io/DIMOS/) and [EgoHMR](https://sanweiliti.github.io/egohmr/egohmr.html) (Oral Presentation), are accepted to ICCV'23.
 - **[Jun. 2023]** Serve as area chair for 3DV'24, and reviewer for Siggraph Asia'23.
