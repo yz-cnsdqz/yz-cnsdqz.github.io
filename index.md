@@ -22,7 +22,7 @@ My researches cover a wide range of topics on **human-centric AI**, in particula
 
 
 ## News
-- **[Feb. 2024]** 3 papers are accepted by CVPR'24. Stay tuned... 
+- **[Feb. 2024]** Three papers, [EgoGen](https://ego-gen.github.io), LODGE, and [DOMA](https://yz-cnsdqz.github.io/eigenmotion/DOMA/) are accepted by CVPR'24. 
 - **[Jan. 2024]** Joint Meshcapade as a machine learning scientist.
 - **[Oct. 2023]** Serve as area chair for CVPR'24.
 - **[Jul. 2023]** Two papers, [DIMOS](https://zkf1997.github.io/DIMOS/) and [EgoHMR](https://sanweiliti.github.io/egohmr/egohmr.html) (Oral Presentation), are accepted to ICCV'23.
