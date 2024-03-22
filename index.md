@@ -15,7 +15,7 @@ My researches have been covering human motion and behavior modeling, 3D human pe
 During 2020-2023, I was a postdoc researcher at [VLG, ETH Zurich](https://vlg.inf.ethz.ch), supervised by Prof. Siyu Tang. 
 I got my PhD degree at June 2020 from Ulm University, Germany, supervised by Prof. Heiko Neumann. 
 During 2018-2020, I was a research intern at Max-Planck Institute for Intelligent Systems, working with Prof. Siyu Tang, Prof. Michael J. Black, and other PS folks.
-Please see more details in my [CV](assets/files/curriculum_vitae.pdf).
+Please see more details in my [CV](assets/files/yanzhang_CV.pdf).
 
 <!-- ## Research Experiences and Interests
 
