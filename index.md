@@ -9,9 +9,13 @@ layout: homepage
 
 
 ## About Me
-I am currently a machine learning scientist at [Meshcapade](https://meshcapade.com/). Before I was a postdoc researcher at ETH Zurich. 
-My researches cover a wide range of topics on **human-centric AI**, in particularly on human motion and behavior modeling, 3D shape and pose estimation, generative models, etc., as well as their applications in mixed reality, architecture design, human-centric simulation, and healthcare. 
+I am currently a machine learning scientist at [Meshcapade](https://meshcapade.com/), working on **Human Foundation Models**. 
+My researches have been covering human motion and behavior modeling, 3D human perception, generative models, etc., as well as their applications in mixed reality, embodied AI, architecture design, and others. 
 
+During 2020-2023, I was a postdoc researcher at [VLG, ETH Zurich](https://vlg.inf.ethz.ch), supervised by Prof. Siyu Tang. 
+I got my PhD degree at June 2020 from Ulm University, Germany, supervised by Prof. Heiko Neumann. 
+During 2018-2020, I was a research intern at Max-Planck Institute for Intelligent Systems, working with Prof. Siyu Tang, Prof. Michael J. Black, and other PS folks.
+Please see more details in my [CV](assets/files/curriculum_vitae.pdf).
 
 <!-- ## Research Experiences and Interests
 
