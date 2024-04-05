@@ -32,8 +32,9 @@ Please see more details in my [CV](assets/files/yanzhang_CV.pdf).
 - **[Jul. 2023]** Two papers, [DIMOS](https://zkf1997.github.io/DIMOS/) and [EgoHMR](https://sanweiliti.github.io/egohmr/egohmr.html) (Oral Presentation), are accepted to ICCV'23.
 - **[Jun. 2023]** Serve as area chair for 3DV'24, and reviewer for Siggraph Asia'23.
 
-{% include_relative _includes/publications.md %}
-
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/teaching.md %}
+
+{% include_relative _includes/publications.md %}
+

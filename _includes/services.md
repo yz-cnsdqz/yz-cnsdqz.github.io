@@ -11,6 +11,6 @@
 <h4 style="margin:0 10px 0;">Other Affiliations</h4>
 
 <ul style="margin:0 0 20px;">
-  <li>Max-Planck ETH Center for Learning Systems (CLS) </li>
-  <li>ETH AI Center</li>
+  <li>Max-Planck ETH Center for Learning Systems (CLS), 2020-2023 </li>
+  <li>ETH AI Center, 2020-2023</li>
 </ul>
