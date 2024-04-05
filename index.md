@@ -36,3 +36,4 @@ Please see more details in my [CV](assets/files/yanzhang_CV.pdf).
 
 {% include_relative _includes/services.md %}
 
+{% include_relative _includes/teaching.md %}
