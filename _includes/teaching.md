@@ -17,8 +17,9 @@
 
 <h4 style="margin:0 10px 0;">Lectures at ETH Zurich</h4>
 <ul style="margin:0 0 5px;">
-  <li>Human motion modeling I and II, Virtual Humans, 2022</li>
-  <li>The wanderings of Odysseus in 3D scenes, Mixed Reality, 2022</li>
+  <li>Reinforcement Learning in Behavior Modeling, [Artificial Intelligence for Digital Characters](https://cgl.ethz.ch/teaching/aichar24/home.php), 2024</li>
+  <li>Human motion modeling I and II, [Virtual Humans](https://vlg.inf.ethz.ch/teaching/Virtual-Humans.html), 2022</li>
+  <li>The wanderings of Odysseus in 3D scenes, [Mixed Reality](https://cvg.ethz.ch/lectures/Mixed-Reality/2022), 2022</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Seminars at ETH Zurich</h4>
