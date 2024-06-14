@@ -26,7 +26,8 @@ Please see more details in my [CV](assets/files/yanzhang_CV.pdf).
 
 
 ## News
-- **[Feb. 2024]** Three papers, [EgoGen](https://ego-gen.github.io), [LODGE](https://li-ronghui.github.io/lodge), and [DOMA](https://yz-cnsdqz.github.io/eigenmotion/DOMA/) are accepted by CVPR'24. 
+- **[May. 2024]** Give a guest lecture about **RL in Behavior Modeling** in [Artificial Intelligence for Digital Characters - SS 24](https://cgl.ethz.ch/teaching/aichar24/home.php), hosted by Dr. Rafael Wampfler, Computer Graphics Lab, ETH Zurich. The revised lecture notes is [here]().
+- **[Feb. 2024]** Three papers, [EgoGen](https://ego-gen.github.io) (**ORAL**), [LODGE](https://li-ronghui.github.io/lodge), and [DOMA](https://yz-cnsdqz.github.io/eigenmotion/DOMA/) are accepted by CVPR'24. 
 - **[Jan. 2024]** Join Meshcapade as a machine learning scientist.
 - **[Oct. 2023]** Serve as area chair for CVPR'24.
 - **[Jul. 2023]** Two papers, [DIMOS](https://zkf1997.github.io/DIMOS/) and [EgoHMR](https://sanweiliti.github.io/egohmr/egohmr.html) (Oral Presentation), are accepted to ICCV'23.

@@ -7,6 +7,69 @@ Please see the full publication list at <a href="https://scholar.google.com/cita
 
 
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/doma.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2406.03625">Degrees of Freedom Matter: Inferring Dynamics from Point Trajectories</a></div>
+    <div class="author"> <strong>Yan Zhang</strong>, Sergey Prokudin, Marko Mihajlovic, Qianli Ma, Siyu Tang</div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
+    <div style="font-size: 12px;color: red;"><em>A compact implicit motion field with spatiotemporal regularity.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2406.03625" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://yz-cnsdqz.github.io/eigenmotion/DOMA/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://yz-cnsdqz.github.io/eigenmotion/DOMA/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/egogen.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2401.08739">EgoGen: An Egocentric Synthetic Data Generator</a></div>
+    <div class="author"> Gen Li, Kaifeng Zhao, Siwei Zhang, Xiaozhong Lyu, Mihai Dusmanu, <strong>Yan Zhang</strong>, Marc Pollefeys, Siyu Tang</div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024. <strong>(ORAL) </strong>  </em></div>
+    <div style="font-size: 12px;color: red;"><em>A novel human motion synthesis model with egocentric visual perception. The effectiveness of rendered synthetic data is verified in various tasks.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2401.08739" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://ego-gen.github.io" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://ego-gen.github.io" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/egogen.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2403.10518">Lodge: A Coarse to Fine Diffusion Network for Long Dance Generation Guided by the Characteristic Dance Primitives</a></div>
+    <div class="author"> Ronghui Li, YuXiang Zhang, Yachao Zhang, Hongwen Zhang, Jie Guo, <strong>Yan Zhang</strong>, Yebin Liu, Xiu Li</div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024. </em></div>
+    <div style="font-size: 12px;color: red;"><em> A two-stage coarse-to-fine diffusion architecture capable of generating extremely long dance sequences based on music. Our characteristic dance primitives possess significant expressiveness as intermediate representations between the two diffusion models.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2403.10518" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://li-ronghui.github.io/lodge" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://li-ronghui.github.io/lodge" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+    </div>
+  </div>
+</div>
+</li>
+
 
 <li>
 <div class="pub-row">
