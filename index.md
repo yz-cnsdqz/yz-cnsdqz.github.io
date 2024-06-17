@@ -9,7 +9,7 @@ layout: homepage
 
 
 ## About Me
-I am currently a machine learning scientist at [Meshcapade](https://meshcapade.com/), working on **Human Foundation Models**. 
+I am currently a machine learning scientist at [Meshcapade](https://meshcapade.com/), working on **human foundation models and behavior computing**. 
 My researches have been covering human motion and behavior modeling, 3D human perception, generative models, etc., as well as their applications in mixed reality, embodied AI, architecture design, and others. 
 
 During 2020-2023, I was a postdoc researcher at [VLG, ETH Zurich](https://vlg.inf.ethz.ch), supervised by Prof. Siyu Tang. 
