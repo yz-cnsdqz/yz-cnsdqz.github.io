@@ -13,7 +13,7 @@
 <ul style="margin:0 0 5px;">
   <li>Organizer of the workshop <a href="https://human-foundation.github.io/workshop-eccv-2024/">Foundation Models for 3D Humans</a> at ECCV'24.
   <li>Guest lecture of RL in Behavior Modeling in <a href="https://cgl.ethz.ch/teaching/aichar24/home.php">Artificial Intelligence for Digital Characters - SS 24</a> Computer Graphics Lab, ETH Zurich.
-  <li>Organizer of the workshop <a href="https://sites.google.com/view/egocentric-hand-body-activity">Human Body, Hands, and Activities from Egocentric and Multi-view Cameras</a> at ECCV'22.
+  <li>Organizer of the workshop <a href="https://sites.google.com/view/egocentric-hand-body-activity">Human Body, Hands, and Activities from Egocentric and Multi-view Cameras</a> at ECCV'22.</li>
 </ul>
 
 
