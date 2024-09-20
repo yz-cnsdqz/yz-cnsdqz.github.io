@@ -30,9 +30,6 @@ Please see more details in my [CV](assets/files/yanzhang_CV.pdf).
 - **[Sep. 2024]** Organizing the workshop of [Foundation Models for 3D Humans](https://human-foundation.github.io/workshop-eccv-2024/) at ECCV'24.
 - **[May. 2024]** Give a guest lecture about **RL in Behavior Modeling** in [Artificial Intelligence for Digital Characters - SS 24](https://cgl.ethz.ch/teaching/aichar24/home.php), hosted by Dr. Rafael Wampfler, Computer Graphics Lab, ETH Zurich. The revised lecture notes is [here]().
 - **[Feb. 2024]** Three papers, [EgoGen](https://ego-gen.github.io) (**ORAL**), [LODGE](https://li-ronghui.github.io/lodge), and [DOMA](https://yz-cnsdqz.github.io/eigenmotion/DOMA/) are accepted by CVPR'24. 
-- **[Jan. 2024]** Join Meshcapade as a machine learning scientist.
-- **[Oct. 2023]** Serve as area chair for CVPR'24.
-- **[Jun. 2023]** Serve as area chair for 3DV'24, and reviewer for Siggraph Asia'23.
 
 {% include_relative _includes/services.md %}
 
