@@ -26,6 +26,7 @@ Please see more details in my [CV](assets/files/yanzhang_CV.pdf).
 
 
 ## News
+- **[Dec. 2024]** Our Workshop on 3D Human Understanding at CVPR'25 is accepted. Stay tuned for more details.
 - **[Sep. 2024]** Serve as area chair for CVPR'25.
 - **[Sep. 2024]** Organizing the workshop of [Foundation Models for 3D Humans](https://human-foundation.github.io/workshop-eccv-2024/) at ECCV'24.
 - **[May. 2024]** Give a guest lecture about **RL in Behavior Modeling** in [Artificial Intelligence for Digital Characters - SS 24](https://cgl.ethz.ch/teaching/aichar24/home.php), hosted by Dr. Rafael Wampfler, Computer Graphics Lab, ETH Zurich. The revised lecture notes is [here]().
