@@ -20,7 +20,7 @@ My research covers human motion and behavior synthesis, 3D human perception, gen
 
 
 ## News
-- **[Apr. 2025]** Guest lecturer about **RL in Behavior Modeling** in [Artificial Intelligence for Digital Characters - SS 24](https://cgl.ethz.ch/teaching/aichar24/home.php), hosted by Dr. Rafael Wampfler, Computer Graphics Lab, ETH Zurich.
+- **[Apr. 2025]** Guest lecturer about **RL in Behavior Modeling** in [Artificial Intelligence for Digital Characters - SS 25](https://cgl.ethz.ch/teaching/aichar25/home.php), hosted by Dr. Rafael Wampfler, Computer Graphics Lab, ETH Zurich.
 - **[Apr. 2025]** [SmallGS](https://yuxinyao620.github.io/SmallGS/) for camera motion estimation in Tiktok-like videos is accepted as a CVPR'25 workshop paper. 
 - **[Dec. 2024]** Co-organizer of the [3D Human Understanding Workshop](https://sites.google.com/view/3d-humans-cvpr2025) at CVPR'25. 
 - **[Sep. 2024]** Serve as area chair for CVPR'25.
