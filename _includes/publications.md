@@ -1,9 +1,9 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Recent Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-Please see the full publication list at <a href="https://scholar.google.com/citations?user=5VpkLO8AAAAJ&hl=en">Google Scholar</a>
+Please see all at <a href="https://scholar.google.com/citations?user=5VpkLO8AAAAJ&hl=en">Google Scholar</a>
 
 
 
