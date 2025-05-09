@@ -9,8 +9,8 @@ layout: homepage
 
 
 ## About Me
-I am a research scientist at [Meshcapade](https://meshcapade.com/), working on **human foundation models**. 
-My research covers human motion and behavior synthesis, 3D human perception, generative foundation models, and their applications in AR/VR, embodied AI, interactive avatar, and beyond.
+I am a scientific leader at [Meshcapade](https://meshcapade.com/), working on **generative human foundation models**. 
+My research covers human motion and behavior synthesis, 3D human perception, generative models, and their applications in AR/VR, embodied AI, interactive avatar, and beyond.
 
 **Short Bio**
 - Postdoc researcher at [VLG, ETH Zurich](https://vlg.inf.ethz.ch), supervised by Prof. Siyu Tang, 2020-2023. 
