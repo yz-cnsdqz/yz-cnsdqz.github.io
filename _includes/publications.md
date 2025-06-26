@@ -11,7 +11,7 @@ Please see all at <a href="https://scholar.google.com/citations?user=5VpkLO8AAAA
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/doma.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/primal.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
