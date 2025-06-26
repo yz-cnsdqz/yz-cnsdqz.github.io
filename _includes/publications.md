@@ -7,6 +7,30 @@ Please see all at <a href="https://scholar.google.com/citations?user=5VpkLO8AAAA
 
 
 
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/doma.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2503.17544">PRIMAL: Physically Reactive and Interactive Motor Model for Avatar Learning</a></div>
+    <div class="author"> <strong>Yan Zhang</strong>, Yao Feng, Alpár Cseke, Nitin Saini, Nathan Bajandas, Nicolas Heron, Michael J. Black</div>
+    <div class="periodical"><em>International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.</em></div>
+    <div style="font-size: 12px;color: red;"><em>A diffusion model produces avatar's motions and reactions in real time.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2503.17544" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://yz-cnsdqz.github.io/eigenmotion/PRIMAL/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://yz-cnsdqz.github.io/eigenmotion/PRIMAL/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -176,28 +200,6 @@ Please see all at <a href="https://scholar.google.com/citations?user=5VpkLO8AAAA
       <a href="https://arxiv.org/abs/1912.02923" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yz-cnsdqz/PSI-release" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://ps.is.mpg.de/publications/smpl-x-conditional-vae-prox-scene-constraints" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-    </div>
-  </div>
-</div>
-</li>
-
-
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/finegrainedseg.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Local_Temporal_Bilinear_Pooling_for_Fine-Grained_Action_Parsing_CVPR_2019_paper.html">Local temporal bilinear pooling for fine-grained action parsing</a></div>
-    <div class="author"><strong>Yan Zhang</strong>, Siyu Tang, Krikamol Muandet, Christian Jarvers, Heiko Neumann</div>
-    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2019.</em></div>
-    <div style="font-size: 12px;color: red;"><em>A novel plug-in bilinear pooling layer for fine-grained action segmentation. </em></div>
-    <div class="links">
-      <a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Local_Temporal_Bilinear_Pooling_for_Fine-Grained_Action_Parsing_CVPR_2019_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yz-cnsdqz/TemporalActionParsing-FineGrained" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://ps.is.mpg.de/publications/bilinear2018" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
     </div>
   </div>
 </div>
