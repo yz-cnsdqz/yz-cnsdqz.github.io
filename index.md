@@ -20,6 +20,7 @@ My research covers human motion and behavior synthesis, 3D human perception, gen
 
 
 ## News
+- **[Aug. 2025]** serve on the Senior Program Committee, AAAI'26
 - **[Jun. 2025]** [PRIMAL](https://yz-cnsdqz.github.io/eigenmotion/PRIMAL/) is accepted by ICCV'25. 
 - **[Apr. 2025]** Guest lecturer about **RL in Behavior Modeling** in [Artificial Intelligence for Digital Characters - SS 25](https://cgl.ethz.ch/teaching/aichar25/home.php), hosted by Dr. Rafael Wampfler, Computer Graphics Lab, ETH Zurich.
 - **[Apr. 2025]** [SmallGS](https://yuxinyao620.github.io/SmallGS/) for camera motion estimation in Tiktok-like videos is accepted as a CVPR'25 workshop paper. 
