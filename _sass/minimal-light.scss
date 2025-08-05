@@ -194,6 +194,14 @@ papertitle {
 
 }
 
+.news-scroll {
+  max-height: 200px;
+  overflow-y: auto;
+  border: 1px solid #e5e5e5;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
 
   .image {
     border-radius: 0.35em;
