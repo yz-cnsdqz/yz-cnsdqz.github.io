@@ -1,5 +1,5 @@
 ## Teaching
-
+<div class="news-scroll" markdown="1">
 <h4 style="margin:0 10px 0;">Co-supervised Student Projects at ETH Zurich</h4>
 <ul style="margin:0 0 5px;">
   <li>Pascal Troxler & Onat Vuran, Multiview hand motion capture with diffusion models in <a href="https://designplusplus.ethz.ch/infrastructure.html">Immsersive Design Lab</a>, 2023</li>
@@ -27,4 +27,5 @@
   <li>Seminar in Advanced Topics in Vision, 2020,2021,2022,2023</li>
   <li>Seminar on Digital Humans, 2022,2023</li>
 </ul>
+</div>
 
