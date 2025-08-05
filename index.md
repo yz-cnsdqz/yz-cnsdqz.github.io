@@ -2,9 +2,7 @@
 layout: homepage
 ---
 
-[homepage at ETH Zurich](https://vlg.inf.ethz.ch/team/Dr-Yan-Zhang.html)
-
-[homepage at MPI Tuebingen](https://ps.is.mpg.de/~yzhang)
+[homepage at ETH Zurich](https://vlg.inf.ethz.ch/team/Dr-Yan-Zhang.html) &nbsp;&nbsp;|&nbsp;&nbsp; [homepage at MPI Tuebingen](https://ps.is.mpg.de/~yzhang)
 
 
 
