@@ -19,12 +19,12 @@ My research covers human motion and behavior synthesis, 3D human perception, gen
 
 ## News
 <div class="news-scroll" markdown="1">
+- **[Aug. 2025]** Serve as area chair for CVPR'26.
 - **[Aug. 2025]** serve on the Senior Program Committee, AAAI'26
 - **[Jun. 2025]** [PRIMAL](https://yz-cnsdqz.github.io/eigenmotion/PRIMAL/) is accepted by ICCV'25. 
 - **[Apr. 2025]** Guest lecturer of [Artificial Intelligence for Digital Characters](https://cgl.ethz.ch/teaching/aichar25/home.php), ETH Zurich.
 - **[Apr. 2025]** [SmallGS](https://yuxinyao620.github.io/SmallGS/) for camera motion estimation in Tiktok-like videos is accepted as a CVPR'25 workshop paper. 
 - **[Dec. 2024]** Co-organizer of the [3D Human Understanding Workshop](https://sites.google.com/view/3d-humans-cvpr2025) at CVPR'25. 
-- **[Sep. 2024]** Serve as area chair for CVPR'25.
 </div>
 
 
