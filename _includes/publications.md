@@ -7,6 +7,26 @@ Please see all at <a href="https://scholar.google.com/citations?user=5VpkLO8AAAA
 
 
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/funhsi.jpeg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arxiv</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2601.20835">Open-Vocabulary Functional 3D Human-Scene Interaction Generation</a></div>
+    <div class="author"> Jie Liu, Yu Sun, Alpár Cseke, Yao Feng, Nicolas Heron, Michael J. Black, <strong>Yan Zhang</strong></div>
+    <div class="periodical"><em><strong>arXiv</strong>, 2026.</em></div>
+    <div style="font-size: 12px;color: red;"><em>An agentic approach to generate 3D HSI in the open world with open-vocabulary command</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2601.20835" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://jliu4ai.github.io/projects/funhsi/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://jliu4ai.github.io/projects/funhsi/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+    </div>
+  </div>
+</div>
+</li>
+
 
 <li>
 <div class="pub-row">
@@ -27,7 +47,6 @@ Please see all at <a href="https://scholar.google.com/citations?user=5VpkLO8AAAA
   </div>
 </div>
 </li>
-
 
 
 
