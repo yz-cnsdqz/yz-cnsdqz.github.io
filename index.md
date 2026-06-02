@@ -12,7 +12,7 @@ My research experiences have been focusing on **generative human foundation mode
 
 
 **Short Bio**
-- Research Lead at [Meshcapade](https://meshcapade.com/), generative human foundation models, 2024-2026
+- Research Lead at [Meshcapade](https://meshcapade.com/)(acquired by Epic Games.), generative human foundation models, 2024-2026. 
 - Postdoc researcher at [VLG, ETH Zurich](https://vlg.inf.ethz.ch), supervised by Prof. Siyu Tang, 2020-2023. 
 - PhD defense in June 2020 from Ulm University, supervised by Prof. Heiko Neumann. 
 - Research intern at MPI for Intelligent Systems, working with Prof. Michael J. Black, Prof. Siyu Tang, and PS folks, 2018-2020.
