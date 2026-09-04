@@ -7,8 +7,8 @@ layout: homepage
 
 
 ## About Me
-I am a senior research engineer at [Epic Games](https://store.epicgames.com/en-US), working on special projects.
-My research experiences have been focusing on **generative human foundation models**, covering human motion and behavior synthesis, 3D human perception, generative models, and their applications in AR/VR, embodied AI, interactive avatar, and beyond.
+I am a senior/lead research engineer at [Epic Games](https://store.epicgames.com/en-US), working in the Digital Human Research Department led by Prof. Michael J. Black.
+My research experiences have been focusing on **generative human foundation models**, covering human motion and behavior synthesis, 3D human perception, generative models, and their applications in embodied AI, interactive characters, and beyond.
 
 
 **Short Bio**
