@@ -12,7 +12,7 @@ My research experiences have been focusing on **generative human foundation mode
 
 
 **Short Bio**
-- Research Lead at [Meshcapade](https://meshcapade.com/)(acquired by Epic Games.), generative human foundation models, 2024-2026. 
+- Research Lead at Epic Games (before at Meshcapade acquired by Epic Games), 2024-now. 
 - Postdoc researcher at [VLG, ETH Zurich](https://vlg.inf.ethz.ch), supervised by Prof. Siyu Tang, 2020-2023. 
 - PhD defense in June 2020 from Ulm University, supervised by Prof. Heiko Neumann. 
 - Research intern at MPI for Intelligent Systems, working with Prof. Michael J. Black, Prof. Siyu Tang, and PS folks, 2018-2020.
@@ -21,13 +21,13 @@ My research experiences have been focusing on **generative human foundation mode
 
 ## News
 <div class="news-scroll" markdown="1">
+- **[Oct. 2026]** Serve as area chair for CVPR'27.
 - **[May. 2026]** [EgoGen](https://ego-gen.github.io/) wins the [EgoVis](https://egovis.github.io/cvpr26/#overview) 2024/2025 Distinguished Paper Award.
 - **[May. 2026]** Awarded as outstanding area chair at CVPR'26.
 - **[Aug. 2025]** Serve as area chair for CVPR'26.
 - **[Aug. 2025]** serve on the Senior Program Committee, AAAI'26
 - **[Jun. 2025]** [PRIMAL](https://yz-cnsdqz.github.io/eigenmotion/PRIMAL/) is accepted by ICCV'25. 
 - **[Apr. 2025]** Guest lecturer of [Artificial Intelligence for Digital Characters](https://cgl.ethz.ch/teaching/aichar25/home.php), ETH Zurich.
-- **[Apr. 2025]** [SmallGS](https://yuxinyao620.github.io/SmallGS/) for camera motion estimation in Tiktok-like videos is accepted as a CVPR'25 workshop paper. 
 </div>
 
 
